@@ -17,8 +17,8 @@ pip install pytube
 pip install requests
 ```
 
-Download ffmpeg and put it to the folder with application.
-Get YouTube API key and put it into **key.txt** file.
+Download ffmpeg and put it into the folder with the application.
+Get a YouTube API key and put it into the **key.txt** file.
 ### How it works
 ---
-The application, using YouTube API, gets URLs of the videos on the playlist and then downloads them using pytube.
+The application, using YouTube API, gets the URLs of the videos on the playlist and then downloads them using pytube.
